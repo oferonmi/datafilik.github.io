@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FOSTMusings Site launched"
+title: "FOSTMusings Website Launched"
 date: 2019-10-12
 ---
 
