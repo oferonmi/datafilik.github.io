@@ -1,48 +1,19 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<meta charset="utf-8">
-		<!--
-		<meta name="viewport" width="device-width, initial-scale=1.0">
-		<meta name="description" content="{{ page.description }}">
-		-->
-		<meta name="author" content="Victor Ocheri">
-		
-		<!-- favicon
-		<link rel="shortcut icon" href="/img/ico/favicon.png">
-		-->
-		
-		<title>{{ page.title }}</title>
-		
-		<!-- link to main stylesheet -->
-		<link  rel="stylesheet" type="text/css" href="/css/bootstrap.css">
-		<link rel="stylesheet" type="text/css" href="/css/main.css">
-		
-		<!--lscript for google analytics-->
-		{% include analytics.html %}
+		{% include head.html %}
 	</head>
 		
-	<body>
-		<div class="header">
-			<img src="/img/fostmusings_logo.png" alt="logo">
-			<nav nav-pills pull-right>
-				<ul>
-					<li><a href="/">Home</a></li>
-					<li><a href="/about">About</a></li>
-					<li><a href="/blog">Blog</a></li>
-				</ul>
-			</nav>
-		</div><!--/header-->
-			
+	<body>	
 		<div class="container">
-				{{ content }}
-		</div><!-- /.container -->
+			{% include header.html %}
 			
-		<footer>
-	    		<ul>
-	        		<li><a href="mailto:datafilik@gmail.com">email</a></li>
-	        		<li><a href="https://github.com/datafilik">github.com/datafilik</a></li>
-			</ul>
-		</footer>
+			{{ content }}
+			
+			{% include footer.html %}
+		</div><!-- /.container -->
+		
+		{% include scripts.html %}
+			
 	</body>
 </html>
