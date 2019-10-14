@@ -4,15 +4,14 @@ title: "FOSTMusings' Website Launched"
 date: 2019-10-12
 ---
 
-Finally! FOSTMusings got launched.
+<p align="justify">Finally! FOSTMusings got launched.</p>
 
-This launch is the outcome of long held delibrations about the best way to document learning adventures into 
-Free and Open Source Technologies (FOST).
+<p align="justify">This launch is the outcome of long held delibrations about the best way to document learning adventures 
+into Free and Open Source Technologies (FOST).</p>
 
-There's is an awful lot open source projects out there. Takng a close look at as may as possible of the technologies
-should be a very interesting experience. As FOSTMusings document these expedition, it would also details potential 
-application areas, for each tech, to problems in the developing World.
+<p align="justify">There's is an awful lot open source projects out there. Takng a close look at as may as possible of the technologies should be a very interesting experience. As FOSTMusings document these expedition, it would also details potential 
+application areas, for each tech, to problems in the developing World.</p>
 
-Let's see if we can paint a technology picture of a world run largley on open source tech.
+<p align="justify">Let's see if we can paint a technology picture of a world run largley on open source tech.</p>
 
-Enjoy the voyage.
+<p align="justify">Enjoy the voyage.</p>
