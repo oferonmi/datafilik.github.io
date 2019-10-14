@@ -16,7 +16,7 @@ date: 2019-10-14
 	
 <p align="justify">
 		In the above spirit, FOSTMusings would be <em>a documentation of adventures into Free and Open Source 
-		Technologies (FOST) with the purpose of identifying applications for specific problems, particularly 
+		Technologies (FOSTs) with the purpose of identifying applications for specific problems, particularly 
 		in the developing world</em>.
 </p>
 	
