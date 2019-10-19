@@ -5,7 +5,7 @@ date: 2019-10-19
 ---
 <p align="justify"></p>
 <p align="justify">
-It is 1.00PM. Pascal had just woken up from an afternoon nap to the heat and still quite house, indicative of the absense 
+It is 1.00 PM. Pascal had just woken up from an afternoon nap to the heat and still quite house, indicative of the absense 
 of electric power, which had, in the first place, made him to take the power-absence induced afternoon nap. He had been 
 working on one of his pet web development projects when suddenly, a power outage occurred. The charged battery of his laptop had bought him an additional one hour before it ran out of charge. Here he was awoken by the heat, that seemed to have increased in its intensity, and yet the electric power haddn't been restored.
 
