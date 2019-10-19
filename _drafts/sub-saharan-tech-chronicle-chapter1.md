@@ -31,7 +31,7 @@ In the meanwhile he believed the questions surrounding the epileptic power suppl
 
 The sun shone brightly on his face, making him squint as he pulled aside the curtain to the window adajacent his bed. This same sun, shone for the most part of the day throughout each year in his country, situated somewhere in Sub-Saharan Africa and yet his township faced power outages almost every day. 
 
-Now wide awake, he strod towards the kichten to fix himself lunch. 
+Now wide awake, he strode towards the kichten to fix himself lunch. 
 
 'I have to find a way to generate electric power from this abundant amount of sunlight'. He found himself again lost in the train of thought, relating to the power problem, he first had when he woke up from his afternoon nap. 
 
