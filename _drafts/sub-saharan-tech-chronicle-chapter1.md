@@ -17,7 +17,7 @@ Sudden power outages are normal occurrence in his area of sub-Saharan Africa, Bu
 
 Contnuing his train of thought he reasoned, 'Had the transformer for the line supplying his house, blown or was there a much bigger issue at the power sub-station supplying his township'. 
 
-This were typical scenarios that played out in Pascal's mind each time a power outage occured. 
+These were typical scenarios that played out in Pascal's mind each time a power outage occured. 
 
 He had just completed his 1-year mandatory national service and was at his parent's place trying to work out what to do next.The almost constant stream of start-up success stories from Sillicon Valley in the US and the dramatic ways the lives of once cash-strapped individuals changed as their business idea took off, convinced him that building a Start-up was the next thing. Who could resist the urge of be one's own boss. True to this conviction, he had been working on a website which he began to develop at his spare times during his national service days. He had to make significant payements for internet connection from his national carrier plus he had to endure onpredictable periods of electric power outage. The combination of the two factors had hindered much progress in his website  project. Sometimes he loses motivation when he delibrates on what use it was to develope a website for potential end-users who would have to grapple with high internet connection cost and frequent power  outage.
 
