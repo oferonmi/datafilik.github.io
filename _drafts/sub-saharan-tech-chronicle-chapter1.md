@@ -29,7 +29,7 @@ Gasoline generators had become the way to cope with the epilleptic power supply 
 
 In the meanwhile he believed the questions surrounding the epileptic power supply problem, was one that had to be addressed and he was going to do something about it.
 
-The sun shone brightly on his face, making him squint as he pulled aside the curtain to the window adajacent his bed. This same sun, shone for the most part of the day throughout each year in his country, situated somewhere in Sub-Saharan Africa and yet his township faced power outages almost every day. 
+The sun shone brightly on his face, making him squint as he pulled aside the curtain to the window adjacent his bed. This same sun, shone for the most part of the day throughout each year in his country, situated somewhere in Sub-Saharan Africa and yet his township faced power outages almost every day. 
 
 Now wide awake, he strode towards the kichten to fix himself lunch. 
 
