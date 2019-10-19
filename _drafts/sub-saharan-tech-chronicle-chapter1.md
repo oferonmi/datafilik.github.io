@@ -15,7 +15,7 @@ Sudden power outages are normal occurrence in his area of Sub-Saharan Africa, Bu
 
 'Was there a delibrate power shut-off for his area due to power rotations, or did some breaker switch trip due to power surge', He thought. 
 
-Contnuing his train of thought he reasoned, 'Had the transformer for the line supplying his house, blown or was there a much bigger issue at the power sub-station supplying his township'. 
+Continuing his train of thought he reasoned, 'Had the transformer for the line supplying his house, blown or was there a much bigger issue at the power sub-station supplying his township'. 
 
 These were typical scenarios that played out in Pascal's mind each time a power outage occured. 
 
@@ -25,19 +25,19 @@ He had spent the first few waking moments lost in thought and then it occured to
 
 Gasoline generators had become the way to cope with the epilleptic power supply inspite of their noisey and polluting nature. There had become so valuable that individuals have had to chain down their generator unit to avert the possibility of it being stolen when operated outdoor during an outage. Yet his country that had abundant sunlight for most part of the day, each year, in addition to abundance of other energy resources such as oil, struggled. Energy generation tech had become gold. For Pascal, one key problem was culpable for this problem, and that was as a seeming inability of leaders in his country to effectively manage large old systems as wells as a difficulty with building new ones. 
 
-'Maybe if there completely let go of the power industry and the national grid to the private sector, there would be the incentive to make power industry work again', he thought. 
+'Maybe if there completely let go of the power industry and the national grid to the private sector, there would be the incentive to make the power industry work again', he thought. 
 
 In the meanwhile he believed the questions surrounding the epileptic power supply problem, was one that had to be addressed and he was going to do something about it.
 
-The sun light shone to his face making him squint,as he pulled aside the curtain to the window adajacent his bed. This same sun shone for the most part of the day throughout each year in his country, situated somewhere in Sub-Saharan Africa and yet his township faced power outages almost every day. 
+The sun shone brightly on his face, making him squint as he pulled aside the curtain to the window adajacent his bed. This same sun, shone for the most part of the day throughout each year in his country, situated somewhere in Sub-Saharan Africa and yet his township faced power outages almost every day. 
 
 Now wide awake, he strod towards the kichten to fix himself lunch. 
 
-'I have to find a way to generate electric power from this abundant amount of sunlight'. He found himself again lost in the train of thought relating to the power problem, he first had when he woke fron his afternoon nap. 
+'I have to find a way to generate electric power from this abundant amount of sunlight'. He found himself again lost in the train of thought, relating to the power problem, he first had when he woke up from his afternoon nap. 
 
-He once held an internship at a solar power company and was aware that a key drawback to solar power deployment was the cost and reliability of batteries as well as maintenance of an unweldy system. The cost of solar panels had beeb dropping signigicantly due to over supplym mostly driven by the green energy frenzy the had taken the world. So solar panels weren't the problem. Having concluded that one had to explore off-grid power solutions to avoid the bureaucary and corruption that plagued progress in keeping the national grid up and running effectively, he decided he had to go to work on designing a residential solar power generation system and it had to be one that could effectively out-compete the portable but noisey gasoline power generators. 
+He once held an internship at a solar power company and was aware that a key drawback to solar power deployment was the cost and reliability of batteries as well as maintenance of an unweldy system. The cost of solar panels had been dropping signigicantly due to over supply mostly driven by the green energy frenzy the had taken the world. So solar panels weren't the problem. Having concluded that one had to explore off-grid power solutions to avoid the bureaucary and corruption that plagued progress in keeping the national grid up and running effectively, he decided he was going to work on designing <em>a residential solar power generation system<em> and <em>it had to be one that could effectively out-compete the portable but noisey gasoline power generators</em>. 
 
-Portable gasoline generators were easy to deploy, there provided instant energy from raw resource. Pascal reasoned any system he developed would have to equally provide thesame advantages. In addition to these advantages, his dream system was going to be modular such that there could be pooled together like, lego blocks, to create even larger systems that provided grid-like electric power quality. The modular and quite nature of the system were to become additional value propositions he would make for the system, if he had to make a pitch  about the project. But there were still more technical details to be thought through as well as design prototypes to be made, to usher in a concrete version of his dream sun driven residential power system.
+Portable gasoline generators were easy to deploy, there provided instant energy from raw resource. Pascal reasoned any system he developed would have to equally provide thesame advantages. In addition to these advantages, <em>his dream system was going to be modular in nature so that there could be pooled together like, lego blocks, to create even larger systems that provided grid-like electric power quality</em>. The modular and quite nature of the system were to become additional value propositions he would make for the system, if he had to make a pitch  about the project. But there were still more technical details to be thought through as well as design prototypes to be made, to usher in a concrete version of his dream sun driven residential power system.
 
 He settled down to lunch, finally assuaging his grawling stomach.
 </p>
