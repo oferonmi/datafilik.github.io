@@ -2,6 +2,14 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+header{
+    background-color: green;
+    opacity: 0.6;
+}
+footer {
+    background-color: green;
+    opacity: 0.3;
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
