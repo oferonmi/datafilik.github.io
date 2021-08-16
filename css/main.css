@@ -30,11 +30,11 @@ p {
     color: #333;
 }
 div.header{
-    background-color: rgb(47, 90, 47);
-    opacity: 0.6;
+    background-color: rgba(47, 90, 47, 0);
+    opacity: 1;
 }
 div.footer {
-    background-color: rgb(47, 90, 47);
+    background-color: rgba(47, 90, 47, 0);
     opacity: 0.3;
     border-top: 1px solid #d5d5d5;
     font-size: .8em;

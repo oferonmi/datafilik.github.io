@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="gkraft_logo_v1.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9983453"
+     inkscape:cx="205.17763"
+     inkscape:cy="874.6172"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1046"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       id="rect3713"
+       width="87.722237"
+       height="25.442099"
+       x="32.067646"
+       y="25.882631"
+       style="stroke-width:0.26458332;fill:none" />
+    <g
+       id="g3846"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <text
+         id="text3717"
+         y="25.617609"
+         x="123.50018"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:Rockwell;-inkscape-font-specification:Rockwell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:Rockwell;-inkscape-font-specification:Rockwell;stroke-width:0.26458332"
+           y="25.617609"
+           x="123.50018"
+           id="tspan3715"
+           sodipodi:role="line">Gutenkraft</tspan></text>
+      <g
+         transform="matrix(0.17271868,-0.09717366,0.09351174,0.17117584,99.661019,14.421583)"
+         id="g3778">
+        <circle
+           style="fill:#008080;stroke-width:0.08880273"
+           id="path3721"
+           cx="38.597687"
+           cy="74.477127"
+           r="6" />
+        <circle
+           style="fill:#008000;stroke-width:0.08880273"
+           id="path3721-9"
+           cx="54.329483"
+           cy="67.226044"
+           r="6" />
+        <circle
+           style="fill:#00ff00;stroke-width:0.08880273"
+           id="path3721-8"
+           cx="72.881012"
+           cy="57.420235"
+           r="6" />
+        <circle
+           style="fill:#008000;stroke-width:0.08880273"
+           id="path3721-3"
+           cx="54.594505"
+           cy="84.452477"
+           r="6" />
+        <circle
+           style="fill:#00ff00;stroke-width:0.08880273"
+           id="path3721-4"
+           cx="71.820923"
+           cy="74.911682"
+           r="6" />
+        <circle
+           style="fill:#00ff00;stroke-width:0.08880273"
+           id="path3721-6"
+           cx="71.290878"
+           cy="93.463211"
+           r="6" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:Rockwell;-inkscape-font-specification:Rockwell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="60.361164"
+       y="74.668388"
+       id="text3717-9"><tspan
+         sodipodi:role="line"
+         id="tspan3715-9"
+         x="60.361164"
+         y="74.668388"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:Rockwell;-inkscape-font-specification:Rockwell;stroke-width:0.26458332">Gutenkraft</tspan></text>
+    <g
+       id="g3778-2"
+       transform="matrix(0.17271868,-0.09717366,0.09351174,0.17117584,4.1246705,72.408003)">
+      <circle
+         r="6"
+         cy="74.477127"
+         cx="38.597687"
+         id="path3721-5"
+         style="fill:#008080;stroke-width:0.08880273" />
+      <circle
+         r="6"
+         cy="67.226044"
+         cx="54.329483"
+         id="path3721-9-4"
+         style="fill:#008000;stroke-width:0.08880273" />
+      <circle
+         r="6"
+         cy="57.420235"
+         cx="72.881012"
+         id="path3721-8-6"
+         style="fill:#00ff00;stroke-width:0.08880273" />
+      <circle
+         r="6"
+         cy="84.452477"
+         cx="54.594505"
+         id="path3721-3-8"
+         style="fill:#008000;stroke-width:0.08880273" />
+      <circle
+         r="6"
+         cy="74.911682"
+         cx="71.820923"
+         id="path3721-4-6"
+         style="fill:#00ff00;stroke-width:0.08880273" />
+      <circle
+         r="6"
+         cy="93.463211"
+         cx="71.290878"
+         id="path3721-6-8"
+         style="fill:#00ff00;stroke-width:0.08880273" />
+    </g>
+  </g>
+</svg>
