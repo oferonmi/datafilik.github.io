@@ -2,14 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-header{
-    background-color: green;
-    opacity: 0.6;
-}
-footer {
-    background-color: green;
-    opacity: 0.3;
-}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -36,8 +29,13 @@ p {
     line-height: 1.4em;
     color: #333;
 }
-
+div.header{
+    background-color: green;
+    opacity: 0.6;
+}
 div.footer {
+    background-color: green;
+    opacity: 0.3;
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
