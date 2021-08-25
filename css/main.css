@@ -1,5 +1,5 @@
 body {
-    margin: 40px auto; /*60px*/
+    margin: 50px auto; /*60px*/
     width: 80%;
 }
 
@@ -9,31 +9,32 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
 }
+
 nav ul li, div.footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
 a {
     text-decoration: none;
     color: #999;
 }
+
 a:hover {
     text-decoration: underline;
 }
+
 h1 {
     font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
 }
-ul li {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: #333;
-}
+
 div.header{
     background-color: rgba(47, 90, 47, 0);
     opacity: 1;
