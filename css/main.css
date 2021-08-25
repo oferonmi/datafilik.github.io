@@ -56,11 +56,11 @@ ul.posts li {
     list-style: none;
 }
 
-ul.ops { 
+ul.ops,  ul.embedtools { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
 
-ul.ops li {
+ul.ops li, ul.embedtools li {
     list-style: none;
 }
