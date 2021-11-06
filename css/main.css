@@ -17,7 +17,8 @@ nav ul li, div.footer ul li {
 
 a {
     text-decoration: none;
-    color: #999;
+    color: #008080;
+    /* color:#999; */
 }
 
 a:hover {
