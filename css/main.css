@@ -65,3 +65,15 @@ ul.ops,  ul.embedtools {
 ul.ops li, ul.embedtools li {
     list-style: none;
 }
+
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    font-size: .875em;
+    line-height: 1.375;
+}
+
+button,html,input,select,textarea {
+    color: #343434;
+    font-family: 'Verdana', 'Arial', 'sans-serif';
+}
