@@ -4,7 +4,8 @@ body {
 }
 
 nav ul, footer ul {
-    font-family:'Verdana','Arial','Sans-Serif';
+    font-family: 'GT America Mono','system-ui','sans-serif';
+    /* font-family:'Verdana','Arial','Sans-Serif'; */
     /* font-family:'Helvetica', 'Arial', 'Sans-Serif'; */
     padding: 0px;
     list-style: none;
@@ -28,7 +29,8 @@ a:hover {
 h1 {
     font-size: 2em;
     /* font-family:'Helvetica', 'Arial', 'Sans-Serif'; */
-    font-family:'Verdana','Arial','Sans-Serif';
+    /* font-family:'Verdana','Arial','Sans-Serif'; */
+    font-family: 'GT America Mono','system-ui','sans-serif';
 }
 
 p {
@@ -76,5 +78,6 @@ html {
 
 button,html,input,select,textarea {
     color: #343434;
-    font-family: 'Verdana', 'Arial', 'sans-serif';
+    /* font-family: 'Verdana', 'Arial', 'sans-serif'; */
+    font-family: 'GT America Mono', 'system-ui', 'sans-serif';
 }
