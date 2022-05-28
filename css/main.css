@@ -4,8 +4,8 @@ body {
 }
 
 nav ul, footer ul {
-    font-family: 'GT America Mono','system-ui','sans-serif';
-    /* font-family:'Verdana','Arial','Sans-Serif'; */
+    /* font-family: 'GT America Mono','system-ui','sans-serif'; */
+    font-family:'Verdana','Arial','Sans-Serif';
     /* font-family:'Helvetica', 'Arial', 'Sans-Serif'; */
     padding: 0px;
     list-style: none;
