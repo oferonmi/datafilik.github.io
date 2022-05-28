@@ -12,9 +12,9 @@ html {
 
 body {
     margin: 40px auto; 
-    width: 70%;
-    /* font-family: 'Courier Prime', 'Cutive Mono', 'Space Mono', 'Overpass Mono', 'Fira Code'; */
+    width: 80%;
     /* font-family: 'Space Mono', 'Courier Prime', 'Cutive Mono', 'Overpass Mono', 'Fira Code'; */
+    /* font-family: 'Courier Prime', 'Cutive Mono', 'Space Mono', 'Overpass Mono', 'Fira Code'; */
     font-family: 'Overpass Mono', 'Courier Prime', 'Cutive Mono', 'Space Mono', 'Fira Code';
     /* font-family: 'Cutive Mono', 'Overpass Mono', 'Courier Prime', 'Space Mono', 'Fira Code'; */
     /* font-family: 'Fira Code', 'Cutive Mono', 'Overpass Mono', 'Courier Prime', 'Space Mono'; */
