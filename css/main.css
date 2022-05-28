@@ -1,11 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Space+Mono|Courier+Prime|Cutive+Mono|Overpass+Mono|Fira+Code');
+
+html {
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -webkit-tap-highlight-color: transparent;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    font-size: .875em;
+    line-height: 1.375;
+}
+
 body {
     margin: 40px auto; 
     width: 70%;
+    font-family: 'Space Mono', 'Courier Prime', 'Cutive Mono', 'Overpass Mono', 'Fira Code';
 }
 
 nav ul, footer ul {
-    /* font-family:'Verdana','Arial','Sans-Serif'; */
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    /* font-family:'Helvetica', 'Arial', 'Sans-Serif'; */
+    /* font-family: 'Space Mono', 'Courier Prime', 'Cutive Mono', 'Overpass Mono', 'Fira Code'; */
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -27,8 +40,8 @@ a:hover {
 
 h1 {
     font-size: 2em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    /* font-family:'Verdana','Arial','Sans-Serif'; */
+    /* font-family:'Helvetica', 'Arial', 'Sans-Serif'; */
+    /* font-family: 'Space Mono', 'Courier Prime', 'Cutive Mono', 'Overpass Mono', 'Fira Code'; */
 }
 
 p {
@@ -67,18 +80,8 @@ ul.ops li, ul.embedtools li {
     list-style: none;
 }
 
-html {
-    text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
-    -webkit-tap-highlight-color: transparent;
-    -ms-text-size-adjust: 100%;
-    -webkit-text-size-adjust: 100%;
-    font-size: .875em;
-    line-height: 1.375;
-}
-
-button,html,input,select,textarea {
+button, html, input, select, textarea {
     color: #343434;
-    /* font-family: 'Verdana', 'Arial', 'sans-serif'; */
-    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    /* font-family: 'Helvetica', 'Arial', 'Sans-Serif'; */
+    /* font-family: 'Space Mono', 'Courier Prime', 'Cutive Mono', 'Overpass Mono', 'Fira Code'; */
 }
