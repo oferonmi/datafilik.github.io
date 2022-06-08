@@ -40,9 +40,9 @@ a {
     color: #008080;
 }
 
-a:hover {
+/* a:hover {
     text-decoration: underline;
-}
+} */
 
 p {
     font-size: 1.5em;
