@@ -24,11 +24,6 @@ nav{
     font-weight: bold;
 }
 
-nav.main-menu {
-    text-align: right;
-    vertical-align: middle;
-}
-
 nav ul, footer ul {
     padding: 0px;
     list-style: none;
@@ -38,6 +33,11 @@ nav ul, footer ul {
 nav ul li, div.footer ul li {
     display: inline;
     margin-right: 25px;
+}
+
+nav.main-menu {
+    text-align: right;
+    vertical-align: middle;
 }
 
 a {
