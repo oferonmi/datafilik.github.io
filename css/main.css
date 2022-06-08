@@ -24,6 +24,11 @@ nav{
     font-weight: bold;
 }
 
+nav.main-menu {
+    text-align: right;
+    vertical-align: middle;
+}
+
 nav ul, footer ul {
     padding: 0px;
     list-style: none;
