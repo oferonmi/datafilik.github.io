@@ -79,11 +79,12 @@ ul.posts li {
 ul.ops,  ul.embedtools, ul.cadmtools { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
-}
-
-ul.ops li, ul.embedtools li {
     list-style: none;
 }
+
+/* ul.ops li, ul.embedtools li {
+    list-style: none;
+} */
 
 button, html, input, select, textarea {
     color: #343434;
