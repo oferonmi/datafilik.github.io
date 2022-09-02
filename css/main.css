@@ -36,7 +36,7 @@ nav ul li, footer ul li {
 }
 
 nav.header-menu {
-    text-align: right;
+    /* text-align: right; */
     vertical-align: middle;
 }
 
