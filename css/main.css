@@ -18,10 +18,18 @@ body {
     font-family: 'Overpass Mono', 'Courier Prime', 'Cutive Mono', 'Space Mono', 'Fira Code';
     /* font-family: 'Cutive Mono', 'Overpass Mono', 'Courier Prime', 'Space Mono', 'Fira Code'; */
     /* font-family: 'Fira Code', 'Cutive Mono', 'Overpass Mono', 'Courier Prime', 'Space Mono'; */
+
+    /* font-size: 1.5em; */
+    /* line-height: 1.4em; */
+    color: #333;
 }
 
 nav{
     font-weight: bold;
+}
+
+nav.header-menu {
+    vertical-align: middle;
 }
 
 nav ul, footer ul {
@@ -35,11 +43,6 @@ nav ul li, footer ul li {
     margin-right: 25px;
 }
 
-nav.header-menu {
-    /* text-align: right; */
-    vertical-align: middle;
-}
-
 a {
     text-decoration: none;
     color: #008080;
@@ -49,11 +52,11 @@ a:hover {
     text-decoration: none
 }
 
-p {
+/* p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
-}
+} */
 
 header{
     background-color: rgba(47, 90, 47, 0);
@@ -83,9 +86,6 @@ ul.ops,  ul.embedtools, ul.cadmtools {
     list-style: none;
 }
 
-/* ul.ops li, ul.embedtools li, ul.cadmtools {
-    list-style: none;
-} */
 
 button, html, input, select, textarea {
     color: #343434;
