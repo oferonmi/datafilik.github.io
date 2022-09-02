@@ -30,7 +30,7 @@ nav ul, footer ul {
     font-weight: bold;
 }
 
-nav ul li, div.footer ul li {
+nav ul li, footer ul li {
     display: inline;
     margin-right: 25px;
 }
@@ -55,12 +55,13 @@ p {
     color: #333;
 }
 
-div.header{
+header{
     background-color: rgba(47, 90, 47, 0);
     opacity: 1;
 }
 
-div.footer {
+footer {
+    margin-top: auto;
     background-color: rgba(47, 90, 47, 0);
     opacity: 0.3;
     border-top: 1px solid #d5d5d5;
