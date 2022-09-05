@@ -87,6 +87,7 @@ button, html, input, select, textarea {
     color: #343434;
 }
 
-#full-width-img {
-    width: 100%;
+#responsive-img {
+    max-width: 100%;
+    height: auto;
 }
