@@ -86,3 +86,7 @@ ul.ops,  ul.embedtools, ul.cadmtools {
 button, html, input, select, textarea {
     color: #343434;
 }
+
+#full-width-img {
+    width: 100%;
+}
