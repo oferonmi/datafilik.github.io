@@ -12,7 +12,7 @@ published: true
 
 <section class="container">
     <p align="justify">
-        Infrastructure refers to basic facilities / systems that enables the functionality of individual and communal entities. There are crucial to communal sustainability and are considered an important factor that influences economic growth.
+        Typically when one thinks about infrastructure, they think hardware that are needed to perform tasks, usually of signifcant scope. But infrastructure encompasses all basic facilities / systems that augment and enable various functionalities for individual and communal entities. There are crucial to communal sustainability and advancement. Also, their proliferation at a location, are usually an indication of economic growth since there play a key role in acelerating it.
     </p>
     <p align="justify"> 
         Technology is the outcome of aggregated and refined knowledge (implicit or tacit in nature), expressed in the form of skills applied in devising methods, algorithm and processes of practical utility. The integration of various technologies produces tools and machineries that makes it easy to do useful work.
