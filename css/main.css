@@ -6,7 +6,7 @@ html {
     -webkit-tap-highlight-color: transparent;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
-    font-size: .875em;
+    /* font-size: .875em; */
     line-height: 1.375;
 }
 
@@ -18,8 +18,8 @@ body {
     font-family: 'Overpass Mono', 'Courier Prime', 'Cutive Mono', 'Space Mono', 'Fira Code';
     /* font-family: 'Cutive Mono', 'Overpass Mono', 'Courier Prime', 'Space Mono', 'Fira Code'; */
     /* font-family: 'Fira Code', 'Cutive Mono', 'Overpass Mono', 'Courier Prime', 'Space Mono'; */
-
     color: #333;
+    font-size: 16px;
 }
 
 nav{
@@ -51,7 +51,8 @@ a:hover {
 }
 
 p {
-    font-size: 1.5em;
+    /* font-size: 1.5em; */
+    font-size: 16px;
 }
 
 header{
@@ -64,12 +65,14 @@ footer {
     background-color: rgba(47, 90, 47, 0);
     opacity: 0.3;
     border-top: 2.5px solid #d5d5d5;
-    font-size: 1.2em;
+    /* font-size: 1.2em; */
+    font-size: 16px;
 }
 
 ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
+    margin: 20px auto 40px;
+    font-size: 16px;
+    /* font-size: 1.5em; */
 }
 
 ul.posts li {
@@ -78,7 +81,8 @@ ul.posts li {
 
 ul.ops,  ul.embedtools, ul.cadmtools { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    /* font-size: 1.5em; */
+    font-size: 16px;
     list-style: none;
 }
 
