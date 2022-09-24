@@ -13,7 +13,6 @@ categories: vision
     <p align="justify">
         Infrastructure refers to basic facilities / systems that enables the functionality of individual and communal entities. There are crucial to communal sustainability and are considered an important factor that influences economic growth.
     </p>
-
     <p align="justify"> 
         Technology is the outcome of aggregated and refined knowledge (implicit or tacit in nature), expressed in the form of skills applied in devising methods, algorithm and processes of practical utility. The integration of various technologies produces tools and machineries that makes it easy to do useful work.
     </p>
@@ -46,4 +45,4 @@ categories: vision
     <p align="justify">  
         Thus, systems that reconsider the development of technology infrastructure components to  take advantage of the scale, speed, collaboration potential, moularity and hyperconnectivity of the internet, digitization  and then some, present an approach from which to rethink technology infrastructures so that nimble  and sustainable systems. Gutenkraft Labs seeks to to do just that.
     </p>
-<section>
+</section>
