@@ -19,7 +19,7 @@ body {
     /* font-family: 'Cutive Mono', 'Overpass Mono', 'Courier Prime', 'Space Mono', 'Fira Code'; */
     /* font-family: 'Fira Code', 'Cutive Mono', 'Overpass Mono', 'Courier Prime', 'Space Mono'; */
     color: #333;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 nav{
@@ -66,7 +66,7 @@ footer {
     opacity: 0.3;
     border-top: 2.5px solid #d5d5d5;
     /* font-size: 1.2em; */
-    font-size: 20px;
+    /* font-size: 20px; */
 }
 
 ul.posts { 
