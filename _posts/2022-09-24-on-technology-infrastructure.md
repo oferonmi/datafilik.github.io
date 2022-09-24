@@ -3,6 +3,7 @@ layout: post
 title: "On Technology Infrastructure."
 date:   2022-9-24
 categories: vision
+published: true
 ---
 
 <section>
