@@ -1,15 +1,18 @@
 ---
 layout: post
 title: "On Technology Infrastructure."
-date: 2022-09-17
+date:   2022-9-24
+categories: vision
 ---
 
+<section>
+	<img id ="responsive-img" src="/img/semicductor_assembly_line_pix9.PNG" alt="Robotic arm and assembly line image">
+</section><br>
+
 <p align="justify">
-    Infrastructure refers to basic facilities / systems that enables the functionality of individual and communal entities.
+    Infrastructure refers to basic facilities / systems that enables the functionality of individual and communal entities. There are crucial to communal sustainability and are considered an important factor that influences economic growth.
 </p>
-<p align="justify"> 
-    Infrastructures are crucial to communal sustainability and are considered an important factor that influences economic growth.
-</p>
+
 <p align="justify"> 
     Technology is the outcome of aggregated and refined knowledge (implicit or tacit in nature), expressed in the form of skills applied in devising methods, algorithm and processes of practical utility. The integration of various technologies produces tools and machineries that makes it easy to do useful work.
 </p>
