@@ -96,6 +96,11 @@ button, html, input, select, textarea {
     height: auto;
 }
 
+#just-above-thumbnail-img {
+    max-width: 50%;
+    height: auto;
+}
+
 .wrapper {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
