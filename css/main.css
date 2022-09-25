@@ -100,11 +100,11 @@ button, html, input, select, textarea {
     max-width: 50%;
     height: auto;
     margin: auto;
+    vertical-align: middle;
 }
 
 .wrapper {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
     grid-auto-rows: minmax(100px, auto); 
-    /* gap: 20px; */
 }
