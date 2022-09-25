@@ -104,5 +104,6 @@ button, html, input, select, textarea {
 .wrapper {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-    align-items: center;
+    margin: auto;
+    /* align-items: center; */
 }
