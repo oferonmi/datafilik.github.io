@@ -95,3 +95,8 @@ button, html, input, select, textarea {
     max-width: 100%;
     height: auto;
 }
+
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
