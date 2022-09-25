@@ -97,8 +97,9 @@ button, html, input, select, textarea {
 }
 
 #just-above-thumbnail-img {
-    max-width: 70%;
+    max-width: 60%;
     height: auto;
+    margin: auto;
 }
 
 .wrapper {
