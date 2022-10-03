@@ -94,6 +94,7 @@ button, html, input, select, textarea {
 #responsive-img {
     max-width: 100%;
     height: auto;
+    border-radius: 8px;
 }
 
 #just-above-thumbnail-img {
@@ -101,6 +102,7 @@ button, html, input, select, textarea {
     height: auto;
     margin: auto;
     vertical-align: middle;
+    border-radius: 8px;
 }
 
 .wrapper {
