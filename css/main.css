@@ -52,7 +52,6 @@ a:hover {
 }
 
 p {
-    /* font-size: 1.5em; */
     font-size: 20px;
 }
 
@@ -66,14 +65,10 @@ footer {
     background-color: rgba(47, 90, 47, 0);
     opacity: 0.3;
     border-top: 2.5px solid #d5d5d5;
-    /* font-size: 1.2em; */
-    /* font-size: 20px; */
 }
 
 ul.posts { 
     margin: 20px auto 40px;
-    /* font-size: 20px; */
-    /* font-size: 1.5em; */
 }
 
 ul.posts li {
@@ -82,8 +77,6 @@ ul.posts li {
 
 ul.ops,  ul.embedtools, ul.cadmtools { 
     margin: 20px auto 40px; 
-    /* font-size: 1.5em; */
-    /* font-size: 20px; */
     list-style: none;
 }
 
