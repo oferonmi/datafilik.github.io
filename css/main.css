@@ -62,6 +62,10 @@ header {
     border-bottom: medium solid #333;
 }
 
+header p {
+    margin: 40px auto;
+}
+
 footer {
     margin-top: auto;
     background-color: rgba(47, 90, 47, 0);
