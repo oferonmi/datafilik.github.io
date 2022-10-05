@@ -20,6 +20,7 @@ body {
     /* font-family: 'Fira Code', 'Cutive Mono', 'Overpass Mono', 'Courier Prime', 'Space Mono'; */
     color: #333;
     font-size: 18px;
+    background-color: rgb(192, 240, 231);
 }
 
 nav{
