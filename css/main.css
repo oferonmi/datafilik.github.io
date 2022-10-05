@@ -58,13 +58,13 @@ p {
 header{
     background-color: rgba(47, 90, 47, 0);
     opacity: 1;
-    border-bottom: solid, black;
+    border-bottom: medium solid black;
 }
 
 footer {
     margin-top: auto;
     background-color: rgba(47, 90, 47, 0);
-    opacity: 0.3;
+    opacity: 0.4;
     border-top: 2.5px solid #d5d5d5;
 }
 
