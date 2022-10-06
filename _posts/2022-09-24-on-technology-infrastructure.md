@@ -30,8 +30,8 @@ published: true
     </p>
     <p align="justify"> 
         The first question (on the basic facilities that constitute technology infrastructures) has been the focus of the field of innovation studies such as the National Innovation System (NIS) and Technology Innovation System (TIS).
-        NIS focuses on the collection of institutions (both public and private) in a country whose isolated and collective activities leads to the generation and proliferation of technological artifacts (that is tools, machines, systems etc.). See [<a href="#nis">1</a>] for more details on NIS.
-        ]
+        NIS focuses on the collection of institutions (both public and private) in a country whose isolated and collective activities leads to the generation and proliferation of technological artifacts (that is tools, machines, systems etc.)[<a href="#nis">1</a>].
+        
         On the other hand, TIS focuses not just on the institutions, but also on the actors within these institutions together with the artifacts that facilitates their interaction and activities in the acquisition and transmission of knowledge within a group or network [<a href="#tis">2</a>]. TIS is concerned with functions related to the development of knowledge, it’s proliferation in a synergistic network and the agenda that drives it. The role of enterprising minds (entrepreneurs) is highlighted and identified as expressed in faculties for recognizing and proving the practical usefulness of developed knowledge through experimentation and demonstrations.
     </p>
     <p align="justify"> 
