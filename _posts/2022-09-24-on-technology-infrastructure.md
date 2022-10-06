@@ -53,7 +53,7 @@ published: true
     </p><br>
     <h2>References: </h2>
     <p id="nis">
-        [1]. <a href="https://en.wikipedia.org/wiki/National_innovation_system" target="_blank">National Innovation Systems.</a>
+        [1]. <a href="https://en.wikipedia.org/wiki/National_innovation_system" target="_blank">National Innovation System.</a>
     </p>
     <p id="tis">
         [2]. <a href="https://en.wikipedia.org/wiki/Technological_innovation_system" target="_blank">Technology Innovation System.</a>
